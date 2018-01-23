@@ -1,0 +1,32 @@
+{
+    "name": "stev/spout-bundle",
+    "description": "Symfony 2 Bundle for box spout excel library",
+    "type": "symfony-bundle",
+    "authors": [{
+            "name": "Stefan Matei",
+            "email": "stev.matei@gmail.com"
+        }],
+    "keywords": [
+        "box spout excel bundle"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": ">=5.6",
+        "symfony/framework-bundle": "2.*",
+        "symfony/symfony": "2.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Stev\\SpoutBundle": ""
+        },
+        "psr-4": {
+            "Stev\\SpoutBundle\\": "src/Stev/SpoutBundle"
+        }
+    },
+    "target-dir": "Stev/SpoutBundle",
+    "config": {
+        "bin-dir": "bin"
+    }
+}
