@@ -1,6 +1,6 @@
 {
     "name": "stev/spout-bundle",
-    "description": "Symfony 2 Bundle for box spout excel library v3",
+    "description": "Symfony 4/5 Bundle for box spout excel library v3",
     "type": "symfony-bundle",
     "authors": [{
             "name": "Stefan Matei",
