@@ -13,9 +13,7 @@
         "MIT"
     ],
     "require": {
-        "php": ">=7.1",
-        "symfony/framework-bundle": "4.*||5.*",
-        "symfony/symfony": "4.*||5.*",
+        "php": ">=7.1",        
         "box/spout": "^3.1"
     },
     "autoload": {
