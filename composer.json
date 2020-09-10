@@ -16,7 +16,7 @@
         "php": ">=7.1",
         "symfony/framework-bundle": "4.*|5.*",
         "symfony/symfony": "4.*|5.*",
-        "box/spout": "3.*"
+        "box/spout": "v3.*"
     },
     "autoload": {
         "psr-4": {
