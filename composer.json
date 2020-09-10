@@ -1,6 +1,6 @@
 {
     "name": "stev/spout-bundle",
-    "description": "Symfony 2 Bundle for box spout excel library",
+    "description": "Symfony 2 Bundle for box spout excel library v3",
     "type": "symfony-bundle",
     "authors": [{
             "name": "Stefan Matei",
@@ -13,10 +13,10 @@
         "MIT"
     ],
     "require": {
-        "php": ">=5.6",
-        "symfony/framework-bundle": "2.*|3.*",
-        "symfony/symfony": "2.*|3.*",
-        "box/spout": "^2.7"
+        "php": ">=7.1",
+        "symfony/framework-bundle": "4.*|5.*",
+        "symfony/symfony": "4.*|5.*",
+        "box/spout": "^3.0"
     },
     "autoload": {
         "psr-4": {
